@@ -1,4 +1,4 @@
-## Flash Memory Cards
+# Flash Memory Cards
 
 Flash card app for learning. Display, add and remove memory cards with questions and answers
 
@@ -14,9 +14,9 @@ Flash card app for learning. Display, add and remove memory cards with questions
 ## `Project Preview` 
 
 #### Click Below Link <br><br>
-[`Click View Project Demo`](https://mian-ali.github.io/SpeedTyping-master-Game/) <br>
+[`Click the Button and View Project Demo`](https://mian-ali.github.io/Flash-MemoryCards-App/) <br>
 
 
 `Project Broswer URL`
 
-https://mian-ali.github.io/SpeedTyping-master-Game/
+https://mian-ali.github.io/Flash-MemoryCards-App/
